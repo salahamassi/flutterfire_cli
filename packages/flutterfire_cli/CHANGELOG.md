@@ -1,3 +1,8 @@
+## 0.2.5
+
+ - update README.md file.
+ - publish this forked version of package to pub.dev.
+
 ## 0.2.4
 
  - **CHORE**: Release `flutterfire_cli` again due to incorrect versioning for `0.2.3` release.
