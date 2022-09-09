@@ -10,6 +10,12 @@
   <a href="https://github.com/invertase/flutterfire_cli/blob/main/LICENSE">License</a>
 </p>
 
+***
+This repository is forked from [invertase/flutterfire_cli](https://github.com/invertase/flutterfire_cli) with additional support to multi flavors app projects.
+
+There are an Pr opened on the original repo [feat: Try to Support flavors (android & ios) #92](https://github.com/invertase/flutterfire_cli/pull/92)
+
+***
 A CLI to help with using [FlutterFire](https://firebase.flutter.dev) in your Flutter applications.
 
 ## Local development setup
@@ -31,7 +37,7 @@ flutterfire --help
 ## Install
 
 ```bash
-dart pub global activate flutterfire_cli
+dart pub global activate flutterfire_flavor_cli
 ```
 
 ---

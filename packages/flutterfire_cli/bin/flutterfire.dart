@@ -18,11 +18,11 @@
 
 import 'dart:io';
 
-import 'package:flutterfire_cli/src/command_runner.dart';
-import 'package:flutterfire_cli/src/common/strings.dart';
-import 'package:flutterfire_cli/src/common/utils.dart' as utils;
-import 'package:flutterfire_cli/src/flutter_app.dart';
-import 'package:flutterfire_cli/version.g.dart';
+import 'package:flutterfire_flavor_cli/src/command_runner.dart';
+import 'package:flutterfire_flavor_cli/src/common/strings.dart';
+import 'package:flutterfire_flavor_cli/src/common/utils.dart' as utils;
+import 'package:flutterfire_flavor_cli/src/flutter_app.dart';
+import 'package:flutterfire_flavor_cli/version.g.dart';
 import 'package:pub_updater/pub_updater.dart';
 
 Future<void> main(List<String> arguments) async {
