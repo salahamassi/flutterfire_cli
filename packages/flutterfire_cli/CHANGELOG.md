@@ -1,3 +1,7 @@
+## 0.2.6
+
+- update `packageName` to flutterfire_flavor_cli on `flutterfire.dart` file.
+
 ## 0.2.5
 
  - update README.md file.

@@ -33,7 +33,7 @@ Future<void> main(List<String> arguments) async {
 
     // Check for updates.
     final pubUpdater = PubUpdater();
-    const packageName = 'flutterfire_cli';
+    const packageName = 'flutterfire_flavor_cli';
     final isUpToDate = await pubUpdater.isUpToDate(
       packageName: packageName,
       currentVersion: cliVersion,
